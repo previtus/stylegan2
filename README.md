@@ -1,3 +1,13 @@
+# Custom edits:
+
+- CLI option to resume (for example `--resume_pkl xyz/network-snapshot-000204.pkl --resume_kimg 204`)
+
+
+
+(... the rest is the original repo ...)
+
+
+
 ## StyleGAN2 &mdash; Official TensorFlow Implementation
 
 ![Teaser image](./docs/stylegan2-teaser-1024x256.png)
